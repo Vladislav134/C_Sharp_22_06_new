@@ -2,11 +2,11 @@
 int a = int.Parse(Console.ReadLine()!);
 int b = int.Parse(Console.ReadLine()!);
 int c = int.Parse(Console.ReadLine()!);
-int Maks;
+int Maks = 0;
 if (a > b && a > c)
-{ Maks = a}
+{ Maks = a;}
 if (b > a && b > c)
-{ Maks = b}
+{ Maks = b;}
 if (c > a && c > b)
-{Maks = c}
-print(Maks);
+{Maks = c;}
+Console.WriteLine($" {Maks} - Максимальное число");
