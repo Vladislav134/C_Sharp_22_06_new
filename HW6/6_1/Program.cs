@@ -57,7 +57,7 @@ void ShowMatrix2 (int[,] matrix2)
     
 int[,] matrix = CreateMatrix(4,5);
 ShowMatrix(matrix);
-int[,] matrix2 = CreateMatrix2(4,5);
+int[,] matrix2 = CreateMatrix2(matrix.GetLength(0),matrix.GetLength(1));
 ShowMatrix2 (matrix2);
 
 for ( int x = 0; x < matrix2.GetLength(0); x++) 
