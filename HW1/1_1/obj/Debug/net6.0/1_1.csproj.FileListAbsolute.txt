@@ -1,0 +1,15 @@
+F:\GB\C_Sharp_22_06_new\HW1\1_1\bin\Debug\net6.0\1_1.exe
+F:\GB\C_Sharp_22_06_new\HW1\1_1\bin\Debug\net6.0\1_1.deps.json
+F:\GB\C_Sharp_22_06_new\HW1\1_1\bin\Debug\net6.0\1_1.runtimeconfig.json
+F:\GB\C_Sharp_22_06_new\HW1\1_1\bin\Debug\net6.0\1_1.dll
+F:\GB\C_Sharp_22_06_new\HW1\1_1\bin\Debug\net6.0\1_1.pdb
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.csproj.AssemblyReference.cache
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.AssemblyInfoInputs.cache
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.AssemblyInfo.cs
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.csproj.CoreCompileInputs.cache
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.dll
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\refint\1_1.dll
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.pdb
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\1_1.genruntimeconfig.cache
+F:\GB\C_Sharp_22_06_new\HW1\1_1\obj\Debug\net6.0\ref\1_1.dll
